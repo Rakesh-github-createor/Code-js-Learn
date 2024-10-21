@@ -1,2 +1,2 @@
 # Code-Learn-js  You Tube
-A code rope Foe JS series
+A code rope For JS series
